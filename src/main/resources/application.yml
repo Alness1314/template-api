@@ -1,0 +1,6 @@
+spring:
+    profiles:
+        active: ${PROFILE_ACTIVE}
+
+    application:
+        name: Template

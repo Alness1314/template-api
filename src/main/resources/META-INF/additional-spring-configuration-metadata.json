@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "api.prefix",
+    "type": "java.lang.String",
+    "description": "Initial part of the URL that organizes and structures the endpoints, commonly includes the version and the main resource"
+  },
+  {
+    "name": "springdoc.api-docs.path",
+    "type": "java.lang.String",
+    "description": "Url where the metadata for swagger is executed"
+  }
+]}
